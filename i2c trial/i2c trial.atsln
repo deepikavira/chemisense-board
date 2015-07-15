@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "i2c trial", "i2c trial\i2c trial.cproj", "{493C03EF-A25F-4B46-AC8B-20E8154B65E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{493C03EF-A25F-4B46-AC8B-20E8154B65E1}.Debug|AVR.ActiveCfg = Debug|AVR
+		{493C03EF-A25F-4B46-AC8B-20E8154B65E1}.Debug|AVR.Build.0 = Debug|AVR
+		{493C03EF-A25F-4B46-AC8B-20E8154B65E1}.Release|AVR.ActiveCfg = Release|AVR
+		{493C03EF-A25F-4B46-AC8B-20E8154B65E1}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
